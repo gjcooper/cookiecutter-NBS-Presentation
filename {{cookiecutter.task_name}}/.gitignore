@@ -1,0 +1,4 @@
+#Ignore files - Presentation
+## generally want to ignore binary stimuli files and output data
+stimuli/
+data/
